@@ -1,4 +1,4 @@
-# Freelance Management System
+# Rental Management System
 
 
 The Rental Management System isapplication designed to streamline property and lease management for landlords, property managers, and tenants. It enables users to manage properties, track rental properties, create and maintain lease agreements, and monitor payments. The system includes features such as secure user authentication, property listing management, tenant registration, lease agreement tracking Built with robust backend and frontend technologies, it ensures scalability, security, and ease of use.
